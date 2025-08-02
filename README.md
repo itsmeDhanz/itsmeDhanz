@@ -1,4 +1,4 @@
-## Hi there, I'm Iqdhan Tuhallal 👋
+## Hi there👋
 
 <!--
 **itsmeDhanz/itsmeDhanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on SQL
-- 🌱 I’m currently learning Data Analyst and Data Enginer
