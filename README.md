@@ -1,13 +1,17 @@
 <!-- Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Iqdhan%20Tuhallal%20(@itsmeDhanz)&fontSize=40&fontAlign=50&fontAlignY=40&color=0:0F2027,100:2C5364&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Data%20Analyst%20|%20Tech%20Enthusiast&descAlign=50&descAlignY=65)
 
-
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmeDhanz&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/itsmeDhanz?label=Followers&style=flat&color=brightgreen" alt="Followers" />
+</p>
 
 <h1 align="center">👋 Halo, Saya Iqdhan Tuhallal</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Mahasiswa+Teknik+Informatika;Software+Developer;Data+Analyst+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Mahasiswa+Teknik+Informatika;Software+Developer;Data+Analyst+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,8 +20,8 @@
 ## 🚀 Tentang Saya  
 Saya adalah mahasiswa **Teknik Informatika** yang bersemangat dalam mengembangkan perangkat lunak, analisis data, dan kecerdasan buatan.  
 Saya senang berkolaborasi dalam proyek open-source dan selalu terbuka untuk tantangan baru di dunia teknologi.  
-Saya mahir dalam menggunakan alat dan bahasa pemrograman seperti Excel, Python, dan SQL untuk mengolah data.
-Di GitHub, Anda akan menemukan berbagai proyek analisis data yang mencerminkan keterampilan dan minat saya. Mari kita terhubung dan eksplorasi dunia data bersama!
+Saya mahir menggunakan **Excel, Python, SQL**, dan berbagai tools analitik lainnya untuk mengolah data.  
+Di GitHub, Anda akan menemukan berbagai proyek analisis data yang mencerminkan keterampilan dan minat saya. Mari terhubung dan eksplorasi dunia data bersama!
 
 ---
 
@@ -43,12 +47,40 @@ Di GitHub, Anda akan menemukan berbagai proyek analisis data yang mencerminkan k
 
 ---
 
+## 📖 Currently Learning  
+- Machine Learning dengan Python  
+- Dashboarding menggunakan Tableau  
+- Pengembangan aplikasi berbasis Laravel  
+
+## 🎯 2025 Goals  
+- Berkontribusi pada proyek open-source  
+- Meningkatkan skill Data Engineering  
+- Mendapatkan sertifikasi Data Analyst  
+
+---
+
+<h3>⏳ Weekly Development Breakdown</h3>
+
+<p>🌅 Pagi<br>
+<img src="https://img.shields.io/badge/████████████░░░░░░░░░-48%25-blue" />
+</p>
+
+<p>🌇 Siang<br>
+<img src="https://img.shields.io/badge/████████░░░░░░░░░░░░░-32%25-orange" />
+</p>
+
+<p>🌃 Malam<br>
+<img src="https://img.shields.io/badge/█████░░░░░░░░░░░░░░░░-20%25-purple" />
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=itsmeDhanz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeDhanz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeDhanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=itsmeDhanz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeDhanz&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeDhanz&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -61,13 +93,17 @@ Di GitHub, Anda akan menemukan berbagai proyek analisis data yang mencerminkan k
 
 ---
 
+## 🗨️ Kutipan Favorit  
+
+<p align="center" style="font-size: 18px; color: #FF5733; font-style: italic; max-width: 800px; margin: auto; background: linear-gradient(90deg, rgba(20,20,20,0.7) 0%, rgba(40,40,40,0.8) 50%, rgba(20,20,20,0.7) 100%); padding: 20px; border-radius: 10px; border-left: 3px solid #00FFFF; border-right: 3px solid #00FFFF;"> “Kesuksesan adalah perjalanan, bukan tujuan akhir.<br> Setiap langkah membawa pelajaran dan pertumbuhan.<br> Hadapi tantangan, temukan kekuatanmu.<br> Fokus, ambil risiko, dan percaya pada dirimu.<br> Kerja keras dan tekad adalah kunci kemenanganmu.” 
+</p>
+
+---
+
 ## 📬 Hubungi Saya  
 
-<p align="center">
-  <a href="https://facebook.com/iqdhantuhallal"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/iqdhan046"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:iqdhan046@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<p align="center"> <a href="https://facebook.com/iqdhantuhallal"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/iqdhan046"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:iqdhan046@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
+
 
 ---
 
@@ -77,10 +113,6 @@ Di GitHub, Anda akan menemukan berbagai proyek analisis data yang mencerminkan k
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF"/>
 </p>
 
----
-
-### ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:FF1493&height=100&section=footer&theme=tokyonight)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=0:00c6ff,100:0072ff&section=footer" />
+</p>
