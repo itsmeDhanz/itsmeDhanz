@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on SQL
-- - 🌱 I’m currently learning Data Analyst and Data Enginer
+- 🌱 I’m currently learning Data Analyst and Data Enginer
