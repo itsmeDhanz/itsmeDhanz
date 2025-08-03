@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Iqdhan%20Tuhallal%20(@itsmeDhanz)&fontSize=40&fontAlign=50&fontAlignY=40&color=0:0F2027,100:2C5364&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Data%20Analyst%20|%20Tech%20Enthusiast&descAlign=50&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Iqdhan%20Tuhallal%20(@itsmeDhanz)&fontSize=40&fontAlign=50&fontAlignY=40&color=0:0F2027,100:2C5364&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Data%20Analyst%20|%20UI&UX%20Desaign&descAlign=50&descAlignY=65)
 
 <!-- Profile Views & Followers -->
 <p align="center">
