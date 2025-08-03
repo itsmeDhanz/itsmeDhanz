@@ -7,69 +7,69 @@
   <img src="https://img.shields.io/github/followers/itsmeDhanz?label=Followers&style=flat&color=brightgreen" alt="Followers" />
 </p>
 
-<h1 align="center">👋 Halo, Saya Iqdhan Tuhallal</h1>
+<h1 align="center">👋 Hello, I'm Iqdhan Tuhallal</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Mahasiswa+Teknik+Informatika;Software+Developer;Data+Analyst+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Software+Developer;Data+Analyst+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 Tentang Saya  
-Saya adalah mahasiswa **Teknik Informatika** yang bersemangat dalam mengembangkan perangkat lunak, analisis data, dan kecerdasan buatan.  
-Saya senang berkolaborasi dalam proyek open-source dan selalu terbuka untuk tantangan baru di dunia teknologi.  
-Saya mahir menggunakan **Excel, Python, SQL**, dan berbagai tools analitik lainnya untuk mengolah data.  
-Di GitHub, Anda akan menemukan berbagai proyek analisis data yang mencerminkan keterampilan dan minat saya. Mari terhubung dan eksplorasi dunia data bersama!
+## 🚀 About Me  
+I am a **Computer Science** student passionate about software development, data analysis, and artificial intelligence.  
+I enjoy collaborating on open-source projects and am always open to new challenges in the tech world.  
+I am skilled in **Excel, Python, SQL**, and various other analytical tools for data processing.  
+On GitHub, you will find a variety of data analysis projects that showcase my skills and interests. Let's connect and explore the world of data together!
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **💻 Bahasa Pemrograman**  
+### **💻 Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **🧩 Framework & Tools**  
+### **🧩 Frameworks & Tools**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **📊 Data & Analitik**  
+### **📊 Data & Analytics**  
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
 ## 📖 Currently Learning  
-- Machine Learning dengan Python  
-- Dashboarding menggunakan Tableau  
-- Pengembangan aplikasi berbasis Laravel  
+- Machine Learning with Python  
+- Dashboarding using Tableau  
+- Application development with Laravel  
 
 ## 🎯 2025 Goals  
-- Berkontribusi pada proyek open-source  
-- Meningkatkan skill Data Engineering  
-- Mendapatkan sertifikasi Data Analyst  
+- Contribute to open-source projects  
+- Improve Data Engineering skills  
+- Earn Data Analyst certification  
 
 ---
 
 <h3>⏳ Weekly Development Breakdown</h3>
 
-<p>🌅 Pagi<br>
+<p>🌅 Morning<br>
 <img src="https://img.shields.io/badge/████████████░░░░░░░░░-48%25-blue" />
 </p>
 
-<p>🌇 Siang<br>
+<p>🌇 Afternoon<br>
 <img src="https://img.shields.io/badge/████████░░░░░░░░░░░░░-32%25-orange" />
 </p>
 
-<p>🌃 Malam<br>
+<p>🌃 Night<br>
 <img src="https://img.shields.io/badge/█████░░░░░░░░░░░░░░░░-20%25-purple" />
 </p>
 
@@ -85,25 +85,24 @@ Di GitHub, Anda akan menemukan berbagai proyek analisis data yang mencerminkan k
 
 ---
 
-## 🌟 Proyek Unggulan  
+## 🌟 Featured Projects  
 
-- 🔗 [SmartClass - Aplikasi Manajemen Kelas](https://github.com/itsmeDhanz/SmartClass)  
-- 🔗 [Dashboard Data Analyst](https://github.com/itsmeDhanz/Dashboard-Data-Analyst)  
-- 🔗 [AI Chatbot dengan Python](https://github.com/itsmeDhanz/AI-Chatbot)  
+- 🔗 [SmartClass - Classroom Management Application](https://github.com/itsmeDhanz/SmartClass)  
+- 🔗 [Data Analyst Dashboard](https://github.com/itsmeDhanz/Dashboard-Data-Analyst)  
+- 🔗 [AI Chatbot with Python](https://github.com/itsmeDhanz/AI-Chatbot)  
 
 ---
 
-## 🗨️ Kutipan Favorit  
+## 🗨️ Favorite Quote  
 
-<p align="center" style="font-size: 18px; color: #FF5733; font-style: italic; max-width: 800px; margin: auto; background: linear-gradient(90deg, rgba(20,20,20,0.7) 0%, rgba(40,40,40,0.8) 50%, rgba(20,20,20,0.7) 100%); padding: 20px; border-radius: 10px; border-left: 3px solid #00FFFF; border-right: 3px solid #00FFFF;"> “Kesuksesan adalah perjalanan, bukan tujuan akhir.<br> Setiap langkah membawa pelajaran dan pertumbuhan.<br> Hadapi tantangan, temukan kekuatanmu.<br> Fokus, ambil risiko, dan percaya pada dirimu.<br> Kerja keras dan tekad adalah kunci kemenanganmu.” 
+<p align="center" style="font-size: 18px; color: #FF5733; font-style: italic; max-width: 800px; margin: auto; background: linear-gradient(90deg, rgba(20,20,20,0.7) 0%, rgba(40,40,40,0.8) 50%, rgba(20,20,20,0.7) 100%); padding: 20px; border-radius: 10px; border-left: 3px solid #00FFFF; border-right: 3px solid #00FFFF;"> “Success is a journey, not a destination.<br> Every step brings lessons and growth.<br> Face challenges, discover your strength.<br> Stay focused, take risks, and believe in yourself.<br> Hard work and determination are the keys to your victory.” 
 </p>
 
 ---
 
-## 📬 Hubungi Saya  
+## 📬 Contact Me  
 
 <p align="center"> <a href="https://facebook.com/iqdhantuhallal"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/iqdhan046"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:iqdhan046@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
-
 
 ---
 
